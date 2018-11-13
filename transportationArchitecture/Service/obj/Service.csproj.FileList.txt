@@ -1,0 +1,11 @@
+bin\Debug\Service.dll
+bin\Debug\Service.pdb
+bin\Debug\DataAccess.dll
+bin\Debug\DataHelper.dll
+bin\Debug\Entity.dll
+bin\Debug\Entity.pdb
+bin\Debug\DataAccess.pdb
+bin\Debug\DataHelper.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Service.dll
+obj\Debug\Service.pdb

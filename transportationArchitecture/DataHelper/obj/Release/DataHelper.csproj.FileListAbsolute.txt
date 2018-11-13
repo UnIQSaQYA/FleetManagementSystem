@@ -1,0 +1,8 @@
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\bin\Release\DataHelper.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Release\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Release\DataHelper.csproj.ResolveComReference.cache
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Release\DataHelper.dll
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\bin\Release\DataHelper.dll
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\obj\Release\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\obj\Release\DataHelper.dll

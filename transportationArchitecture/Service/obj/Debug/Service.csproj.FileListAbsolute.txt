@@ -1,0 +1,419 @@
+D:\HSIS Architecture\Service\bin\Debug\Service.dll
+D:\HSIS Architecture\Service\bin\Debug\Service.pdb
+D:\HSIS Architecture\Service\bin\Debug\DataAccess.dll
+D:\HSIS Architecture\Service\bin\Debug\DataHelper.dll
+D:\HSIS Architecture\Service\bin\Debug\Entity.dll
+D:\HSIS Architecture\Service\bin\Debug\Entity.pdb
+D:\HSIS Architecture\Service\bin\Debug\DataAccess.pdb
+D:\HSIS Architecture\Service\bin\Debug\DataHelper.pdb
+D:\HSIS Architecture\Service\obj\Debug\ResolveAssemblyReference.cache
+D:\HSIS Architecture\Service\obj\Debug\Service.dll
+D:\HSIS Architecture\Service\obj\Debug\Service.pdb
+D:\NOC\NOC Architecture\Service\obj\Debug\ResolveAssemblyReference.cache
+D:\NOC\NOC Architecture\Service\obj\Debug\Service.dll
+D:\NOC\NOC Architecture\Service\obj\Debug\Service.pdb
+D:\NOC\NOC Architecture\Service\bin\Debug\Service.dll
+D:\NOC\NOC Architecture\Service\bin\Debug\Service.pdb
+D:\NOC\NOC Architecture\Service\bin\Debug\DataAccess.dll
+D:\NOC\NOC Architecture\Service\bin\Debug\DataHelper.dll
+D:\NOC\NOC Architecture\Service\bin\Debug\Entity.dll
+D:\NOC\NOC Architecture\Service\bin\Debug\Entity.pdb
+D:\NOC\NOC Architecture\Service\bin\Debug\DataAccess.pdb
+D:\NOC\NOC Architecture\Service\bin\Debug\DataHelper.pdb
+E:\Shared\NOC\NOC Architecture\Service\bin\Debug\Service.dll
+E:\Shared\NOC\NOC Architecture\Service\bin\Debug\Service.pdb
+E:\Shared\NOC\NOC Architecture\Service\bin\Debug\DataAccess.dll
+E:\Shared\NOC\NOC Architecture\Service\bin\Debug\DataHelper.dll
+E:\Shared\NOC\NOC Architecture\Service\bin\Debug\Entity.dll
+E:\Shared\NOC\NOC Architecture\Service\bin\Debug\Oracle.DataAccess.dll
+E:\Shared\NOC\NOC Architecture\Service\bin\Debug\Entity.pdb
+E:\Shared\NOC\NOC Architecture\Service\bin\Debug\DataAccess.pdb
+E:\Shared\NOC\NOC Architecture\Service\bin\Debug\DataHelper.pdb
+E:\Shared\NOC\NOC Architecture\Service\obj\Debug\ResolveAssemblyReference.cache
+E:\Shared\NOC\NOC Architecture\Service\obj\Debug\Service.dll
+E:\Shared\NOC\NOC Architecture\Service\obj\Debug\Service.pdb
+C:\Inetpub\wwwroot\NOC Architecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOC Architecture\Service\bin\Debug\Service.dll
+C:\Inetpub\wwwroot\NOC Architecture\Service\bin\Debug\Service.pdb
+C:\Inetpub\wwwroot\NOC Architecture\Service\bin\Debug\DataAccess.dll
+C:\Inetpub\wwwroot\NOC Architecture\Service\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOC Architecture\Service\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOC Architecture\Service\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOC Architecture\Service\bin\Debug\DataAccess.pdb
+C:\Inetpub\wwwroot\NOC Architecture\Service\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOC Architecture\Service\obj\Debug\Service.dll
+C:\Inetpub\wwwroot\NOC Architecture\Service\obj\Debug\Service.pdb
+C:\NOC Application\NOC Architecture\Service\bin\Debug\Service.dll
+C:\NOC Application\NOC Architecture\Service\bin\Debug\Service.pdb
+C:\NOC Application\NOC Architecture\Service\bin\Debug\DataAccess.dll
+C:\NOC Application\NOC Architecture\Service\bin\Debug\DataHelper.dll
+C:\NOC Application\NOC Architecture\Service\bin\Debug\Entity.dll
+C:\NOC Application\NOC Architecture\Service\bin\Debug\Entity.pdb
+C:\NOC Application\NOC Architecture\Service\bin\Debug\DataAccess.pdb
+C:\NOC Application\NOC Architecture\Service\bin\Debug\DataHelper.pdb
+C:\NOC Application\NOC Architecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\NOC Application\NOC Architecture\Service\obj\Debug\Service.dll
+C:\NOC Application\NOC Architecture\Service\obj\Debug\Service.pdb
+C:\Inetpub\wwwroot\NOC Arch\Service\bin\Debug\Service.dll
+C:\Inetpub\wwwroot\NOC Arch\Service\bin\Debug\Service.pdb
+C:\Inetpub\wwwroot\NOC Arch\Service\bin\Debug\DataAccess.dll
+C:\Inetpub\wwwroot\NOC Arch\Service\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOC Arch\Service\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOC Arch\Service\bin\Debug\Oracle.DataAccess.dll
+C:\Inetpub\wwwroot\NOC Arch\Service\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOC Arch\Service\bin\Debug\DataAccess.pdb
+C:\Inetpub\wwwroot\NOC Arch\Service\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOC Arch\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOC Arch\Service\obj\Debug\Service.dll
+C:\Inetpub\wwwroot\NOC Arch\Service\obj\Debug\Service.pdb
+C:\NOC_Rashtra\NOC Architecture\Service\bin\Debug\Service.dll
+C:\NOC_Rashtra\NOC Architecture\Service\bin\Debug\Service.pdb
+C:\NOC_Rashtra\NOC Architecture\Service\bin\Debug\DataAccess.dll
+C:\NOC_Rashtra\NOC Architecture\Service\bin\Debug\DataHelper.dll
+C:\NOC_Rashtra\NOC Architecture\Service\bin\Debug\Entity.dll
+C:\NOC_Rashtra\NOC Architecture\Service\bin\Debug\Oracle.DataAccess.dll
+C:\NOC_Rashtra\NOC Architecture\Service\bin\Debug\Entity.pdb
+C:\NOC_Rashtra\NOC Architecture\Service\bin\Debug\DataAccess.pdb
+C:\NOC_Rashtra\NOC Architecture\Service\bin\Debug\DataHelper.pdb
+C:\NOC_Rashtra\NOC Architecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\NOC_Rashtra\NOC Architecture\Service\obj\Debug\Service.dll
+C:\NOC_Rashtra\NOC Architecture\Service\obj\Debug\Service.pdb
+C:\Inetpub\wwwroot\NOC Architecture\Service\bin\Debug\Oracle.DataAccess.dll
+E:\Shared\by Amrit\NOCArchitecture\Service\bin\Debug\Service.dll
+E:\Shared\by Amrit\NOCArchitecture\Service\bin\Debug\Service.pdb
+E:\Shared\by Amrit\NOCArchitecture\Service\bin\Debug\DataAccess.dll
+E:\Shared\by Amrit\NOCArchitecture\Service\bin\Debug\DataHelper.dll
+E:\Shared\by Amrit\NOCArchitecture\Service\bin\Debug\Entity.dll
+E:\Shared\by Amrit\NOCArchitecture\Service\bin\Debug\Oracle.DataAccess.dll
+E:\Shared\by Amrit\NOCArchitecture\Service\bin\Debug\Entity.pdb
+E:\Shared\by Amrit\NOCArchitecture\Service\bin\Debug\DataAccess.pdb
+E:\Shared\by Amrit\NOCArchitecture\Service\bin\Debug\DataHelper.pdb
+E:\Shared\by Amrit\NOCArchitecture\Service\obj\Debug\ResolveAssemblyReference.cache
+E:\Shared\by Amrit\NOCArchitecture\Service\obj\Debug\Service.dll
+E:\Shared\by Amrit\NOCArchitecture\Service\obj\Debug\Service.pdb
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\bin\Debug\Service.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\bin\Debug\Service.pdb
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\bin\Debug\DataAccess.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\bin\Debug\Oracle.DataAccess.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\obj\Debug\Service.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Service\obj\Debug\Service.pdb
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\bin\Debug\Service.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\bin\Debug\Service.pdb
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\bin\Debug\DataAccess.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\bin\Debug\Oracle.DataAccess.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\obj\Debug\Service.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Service\obj\Debug\Service.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Service.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Service.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\DataAccess.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\DataHelper.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Entity.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\NCCSEncryption.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Entity.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\NCCSEncryption.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\NCCSEncryption.xml
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\DataAccess.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\DataHelper.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\obj\Debug\ResolveAssemblyReference.cache
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\obj\Debug\Service.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\obj\Debug\Service.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\Service.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\Service.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\DataAccess.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\DataHelper.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\Entity.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\NCCSEncryption.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\Entity.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\NCCSEncryption.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\NCCSEncryption.xml
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\DataAccess.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\bin\Debug\DataHelper.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\obj\Debug\ResolveAssemblyReference.cache
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\obj\Debug\Service.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Service\obj\Debug\Service.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Service.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Service.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\DataAccess.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\NCCSEncryption.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\NCCSEncryption.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\NCCSEncryption.xml
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\DataAccess.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\obj\Debug\Service.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\EduDivArchi\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\EduDivArchi\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\EduDivArchi\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\EduDivArchi\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\HRArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\HRArchitecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\HRArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\HRArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\nicArchitecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\nicArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\nicArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\nicArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\MISArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\MISArchitecture\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MISArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\MISArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\newprojArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\newprojArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\newprojArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\newprojArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\usgArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\usgArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\usgArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\usgArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\justshareitArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\justshareitArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\justshareArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\justshareArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\justshareArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\justshareArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\storeArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\storeArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\storeArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\storeArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\Service.dll
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\Service.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\DataAccess.dll
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\DataAccess.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\transportationArchitecture\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\transportationArchitecture\Service\obj\Debug\Service.dll
+C:\inetpub\wwwroot\transportationArchitecture\Service\obj\Debug\Service.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\stdole.dll
+C:\inetpub\wwwroot\transportationArchitecture\Service\bin\Debug\Oracle.DataAccess.dll

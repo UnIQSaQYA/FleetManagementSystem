@@ -1,0 +1,10 @@
+D:\HSIS Architecture\Entity\bin\Debug\Entity.dll
+D:\HSIS Architecture\Entity\bin\Debug\Entity.pdb
+D:\HSIS Architecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\HSIS Architecture\Entity\obj\Debug\Entity.dll
+D:\HSIS Architecture\Entity\obj\Debug\Entity.pdb
+E:\Shared\NOC\NOC Architecture\Entity\bin\Debug\Entity.dll
+E:\Shared\NOC\NOC Architecture\Entity\bin\Debug\Entity.pdb
+E:\Shared\NOC\NOC Architecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\Shared\NOC\NOC Architecture\Entity\obj\Debug\Entity.dll
+E:\Shared\NOC\NOC Architecture\Entity\obj\Debug\Entity.pdb

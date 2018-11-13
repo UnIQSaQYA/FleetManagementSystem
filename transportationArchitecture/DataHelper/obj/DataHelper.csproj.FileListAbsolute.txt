@@ -1,0 +1,12 @@
+D:\HSIS Architecture\DataHelper\bin\Debug\DataHelper.dll
+D:\HSIS Architecture\DataHelper\bin\Debug\DataHelper.pdb
+D:\HSIS Architecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\HSIS Architecture\DataHelper\obj\Debug\DataHelper.dll
+D:\HSIS Architecture\DataHelper\obj\Debug\DataHelper.pdb
+E:\Shared\NOC\NOC Architecture\DataHelper\bin\Debug\DataHelper.dll
+E:\Shared\NOC\NOC Architecture\DataHelper\bin\Debug\DataHelper.pdb
+E:\Shared\NOC\NOC Architecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Shared\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.dll
+E:\Shared\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.pdb
+E:\Shared\NOC\NOC Architecture\DataHelper\bin\Debug\Oracle.DataAccess.dll
+E:\Shared\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache

@@ -1,0 +1,170 @@
+D:\HSIS Architecture\DataHelper\bin\Debug\DataHelper.dll
+D:\HSIS Architecture\DataHelper\bin\Debug\DataHelper.pdb
+D:\HSIS Architecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\HSIS Architecture\DataHelper\obj\Debug\DataHelper.dll
+D:\HSIS Architecture\DataHelper\obj\Debug\DataHelper.pdb
+D:\NOC\NOC Architecture\DataHelper\bin\Debug\DataHelper.dll
+D:\NOC\NOC Architecture\DataHelper\bin\Debug\DataHelper.pdb
+D:\NOC\NOC Architecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.dll
+D:\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.pdb
+E:\Shared\NOC\NOC Architecture\DataHelper\bin\Debug\DataHelper.dll
+E:\Shared\NOC\NOC Architecture\DataHelper\bin\Debug\DataHelper.pdb
+E:\Shared\NOC\NOC Architecture\DataHelper\bin\Debug\Oracle.DataAccess.dll
+E:\Shared\NOC\NOC Architecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Shared\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+E:\Shared\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.dll
+E:\Shared\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\NOC Application\NOC Architecture\DataHelper\bin\Debug\DataHelper.dll
+C:\NOC Application\NOC Architecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\NOC Application\NOC Architecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\NOC Application\NOC Architecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\NOC Application\NOC Architecture\DataHelper\obj\Debug\DataHelper.dll
+C:\NOC Application\NOC Architecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOC Arch\DataHelper\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOC Arch\DataHelper\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOC Arch\DataHelper\bin\Debug\Oracle.DataAccess.dll
+C:\Inetpub\wwwroot\NOC Arch\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOC Arch\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\Inetpub\wwwroot\NOC Arch\DataHelper\obj\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOC Arch\DataHelper\obj\Debug\DataHelper.pdb
+C:\NOC\NOC Architecture\DataHelper\bin\Debug\DataHelper.dll
+C:\NOC\NOC Architecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\NOC\NOC Architecture\DataHelper\bin\Debug\Oracle.DataAccess.dll
+C:\NOC\NOC Architecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.dll
+C:\NOC\NOC Architecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\NOC_Rashtra\NOC Architecture\DataHelper\bin\Debug\DataHelper.dll
+C:\NOC_Rashtra\NOC Architecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\NOC_Rashtra\NOC Architecture\DataHelper\bin\Debug\Oracle.DataAccess.dll
+C:\NOC_Rashtra\NOC Architecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\NOC_Rashtra\NOC Architecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\NOC_Rashtra\NOC Architecture\DataHelper\obj\Debug\DataHelper.dll
+C:\NOC_Rashtra\NOC Architecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOC Architecture\DataHelper\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOC Architecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOC Architecture\DataHelper\bin\Debug\Oracle.DataAccess.dll
+C:\Inetpub\wwwroot\NOC Architecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOC Architecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\Inetpub\wwwroot\NOC Architecture\DataHelper\obj\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOC Architecture\DataHelper\obj\Debug\DataHelper.pdb
+E:\Shared\by Amrit\NOCArchitecture\DataHelper\bin\Debug\DataHelper.dll
+E:\Shared\by Amrit\NOCArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+E:\Shared\by Amrit\NOCArchitecture\DataHelper\bin\Debug\Oracle.DataAccess.dll
+E:\Shared\by Amrit\NOCArchitecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\Shared\by Amrit\NOCArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+E:\Shared\by Amrit\NOCArchitecture\DataHelper\obj\Debug\DataHelper.dll
+E:\Shared\by Amrit\NOCArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\DataHelper\bin\Debug\Oracle.DataAccess.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\DataHelper\bin\Debug\Oracle.DataAccess.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\Documents and Settings\Binode\Desktop\NOCArchitecturecurrent\DataHelper\bin\Debug\DataHelper.dll
+C:\Documents and Settings\Binode\Desktop\NOCArchitecturecurrent\DataHelper\bin\Debug\DataHelper.pdb
+C:\Documents and Settings\Binode\Desktop\NOCArchitecturecurrent\DataHelper\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\Binode\Desktop\NOCArchitecturecurrent\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Binode\Desktop\NOCArchitecturecurrent\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\Documents and Settings\Binode\Desktop\NOCArchitecturecurrent\DataHelper\obj\Debug\DataHelper.dll
+C:\Documents and Settings\Binode\Desktop\NOCArchitecturecurrent\DataHelper\obj\Debug\DataHelper.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\bin\Debug\DataHelper.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\bin\Debug\DataHelper.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Debug\DataHelper.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Debug\DataHelper.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\DataHelper\bin\Debug\DataHelper.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\DataHelper\bin\Debug\DataHelper.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\DataHelper\obj\Debug\DataHelper.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\DataHelper\obj\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\bin\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\bin\Debug\DataHelper.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Debug\DataHelper.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\EduDivArchi\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\EduDivArchi\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\EduDivArchi\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\EduDivArchi\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\EduDivArchi\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\EduDivArchi\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\HRArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\HRArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\HRArchitecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\HRArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\HRArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\HRArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\IRDHRArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\IRDHRArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\HRIRDArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\HRIRDArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\GANGAHRArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\GANGAHRArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\nicArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\MISArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\MISArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\MISArchitecture\DataHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MISArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\MISArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\MISArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\newprojArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\newprojArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\newprojArchitecture\DataHelper\obj\Debug\DataHelper.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\newprojArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\newprojArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\newprojArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\usgArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\usgArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\usgArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\usgArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\usgArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\usgArchitecture\DataHelper\obj\Debug\DataHelper.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\justshareitArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\justshareitArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\DataHelper\obj\Debug\DataHelper.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\justshareitArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\justshareitArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\justshareitArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\storeArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\storeArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\storeArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\storeArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\storeArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\storeArchitecture\DataHelper\obj\Debug\DataHelper.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\transportationArchitecture\DataHelper\bin\Debug\DataHelper.dll
+C:\inetpub\wwwroot\transportationArchitecture\DataHelper\bin\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\transportationArchitecture\DataHelper\obj\Debug\DataHelper.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\transportationArchitecture\DataHelper\obj\Debug\DataHelper.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\transportationArchitecture\DataHelper\obj\Debug\DataHelper.dll
+C:\inetpub\wwwroot\transportationArchitecture\DataHelper\obj\Debug\DataHelper.pdb
+C:\inetpub\wwwroot\transportationArchitecture\DataHelper\bin\Debug\Oracle.DataAccess.dll

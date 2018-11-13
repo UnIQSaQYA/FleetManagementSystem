@@ -1,0 +1,52 @@
+8
+
+dir
+14
+file:///D:/NOC_Project_Server/NOCArchitecture/Entity/Framework
+file:///D:/NOC_Project_Server
+
+
+
+2009-12-25T06:29:26.229927Z
+1
+Administrator
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2897936c-be4c-394e-8e1d-19263909ce08
+
+EntityBase.cs
+file
+
+
+
+
+2009-12-25T07:26:04.000000Z
+40845fdb1ff985eab0bd26e3bc51e667
+2009-12-25T06:29:26.229927Z
+1
+Administrator
+
+EntityList.cs
+file
+
+
+
+
+2009-12-25T07:26:04.000000Z
+a29d0a1bab939e09946c8b599224c4bd
+2009-12-25T06:29:26.229927Z
+1
+Administrator
+

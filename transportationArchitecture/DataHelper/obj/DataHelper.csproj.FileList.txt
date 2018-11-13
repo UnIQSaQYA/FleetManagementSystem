@@ -1,0 +1,5 @@
+bin\Debug\DataHelper.dll
+bin\Debug\DataHelper.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataHelper.dll
+obj\Debug\DataHelper.pdb

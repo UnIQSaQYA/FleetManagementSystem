@@ -1,0 +1,5 @@
+C:\NOC\NOC Architecture\SiteMapDataProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\NOC\NOC Architecture\SiteMapDataProvider\bin\Debug\NCCS.SiteMapDataProvider.dll
+C:\NOC\NOC Architecture\SiteMapDataProvider\bin\Debug\NCCS.SiteMapDataProvider.pdb
+C:\NOC\NOC Architecture\SiteMapDataProvider\obj\Debug\NCCS.SiteMapDataProvider.dll
+C:\NOC\NOC Architecture\SiteMapDataProvider\obj\Debug\NCCS.SiteMapDataProvider.pdb

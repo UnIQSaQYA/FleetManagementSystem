@@ -1,0 +1,52 @@
+8
+
+dir
+14
+file:///D:/NOC_Project_Server/NOCArchitecture/DataAccess/Framework
+file:///D:/NOC_Project_Server
+
+
+
+2009-12-25T06:29:26.229927Z
+1
+Administrator
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2897936c-be4c-394e-8e1d-19263909ce08
+
+AbstractDAO.cs
+file
+
+
+
+
+2009-12-25T07:26:04.000000Z
+f0749c9bc0491ec0ec119dde0f118bb4
+2009-12-25T06:29:26.229927Z
+1
+Administrator
+
+DataSourceException.cs
+file
+
+
+
+
+2009-12-25T07:26:04.000000Z
+33748d47a999135e3c8466b9228f3382
+2009-12-25T06:29:26.229927Z
+1
+Administrator
+

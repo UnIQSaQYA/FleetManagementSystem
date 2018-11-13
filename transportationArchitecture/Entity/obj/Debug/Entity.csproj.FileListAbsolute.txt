@@ -1,0 +1,269 @@
+D:\HSIS Architecture\Entity\bin\Debug\Entity.dll
+D:\HSIS Architecture\Entity\bin\Debug\Entity.pdb
+D:\HSIS Architecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\HSIS Architecture\Entity\obj\Debug\Entity.dll
+D:\HSIS Architecture\Entity\obj\Debug\Entity.pdb
+D:\NOC\NOC Architecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\NOC\NOC Architecture\Entity\obj\Debug\Entity.dll
+D:\NOC\NOC Architecture\Entity\bin\Debug\Entity.dll
+D:\NOC\NOC Architecture\Entity\bin\Debug\Entity.pdb
+D:\NOC\NOC Architecture\Entity\obj\Debug\Entity.pdb
+E:\Shared\NOC\NOC Architecture\Entity\bin\Debug\Entity.dll
+E:\Shared\NOC\NOC Architecture\Entity\bin\Debug\Entity.pdb
+E:\Shared\NOC\NOC Architecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\Shared\NOC\NOC Architecture\Entity\obj\Debug\Entity.dll
+E:\Shared\NOC\NOC Architecture\Entity\obj\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOC Architecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOC Architecture\Entity\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOC Architecture\Entity\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOC Architecture\Entity\obj\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOC Architecture\Entity\obj\Debug\Entity.pdb
+C:\NOC Application\NOC Architecture\Entity\bin\Debug\Entity.dll
+C:\NOC Application\NOC Architecture\Entity\bin\Debug\Entity.pdb
+C:\NOC Application\NOC Architecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\NOC Application\NOC Architecture\Entity\obj\Debug\Entity.dll
+C:\NOC Application\NOC Architecture\Entity\obj\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOC Arch\Entity\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOC Arch\Entity\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOC Arch\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOC Arch\Entity\obj\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOC Arch\Entity\obj\Debug\Entity.pdb
+C:\NOC\NOC Architecture\Entity\bin\Debug\Entity.dll
+C:\NOC\NOC Architecture\Entity\bin\Debug\Entity.pdb
+C:\NOC\NOC Architecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\NOC\NOC Architecture\Entity\obj\Debug\Entity.dll
+C:\NOC\NOC Architecture\Entity\obj\Debug\Entity.pdb
+C:\NOC_Rashtra\NOC Architecture\Entity\bin\Debug\Entity.dll
+C:\NOC_Rashtra\NOC Architecture\Entity\bin\Debug\Entity.pdb
+C:\NOC_Rashtra\NOC Architecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\NOC_Rashtra\NOC Architecture\Entity\obj\Debug\Entity.dll
+C:\NOC_Rashtra\NOC Architecture\Entity\obj\Debug\Entity.pdb
+E:\Shared\by Amrit\NOCArchitecture\Entity\bin\Debug\Entity.dll
+E:\Shared\by Amrit\NOCArchitecture\Entity\bin\Debug\Entity.pdb
+E:\Shared\by Amrit\NOCArchitecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\Shared\by Amrit\NOCArchitecture\Entity\obj\Debug\Entity.dll
+E:\Shared\by Amrit\NOCArchitecture\Entity\obj\Debug\Entity.pdb
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Entity\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Entity\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Entity\obj\Debug\Entity.dll
+C:\Inetpub\wwwroot\by Amrit\NOCArchitecture\Entity\obj\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Entity\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Entity\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Entity\obj\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOC\NOCArchitecture\Entity\obj\Debug\Entity.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\Entity.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\Entity.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\NCCSEncryption.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\NCCSEncryption.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\NCCSEncryption.xml
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\obj\Debug\ResolveAssemblyReference.cache
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\obj\Debug\Entity.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\obj\Debug\Entity.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Entity\bin\Debug\Entity.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Entity\bin\Debug\Entity.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Entity\bin\Debug\NCCSEncryption.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Entity\bin\Debug\NCCSEncryption.pdb
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Entity\bin\Debug\NCCSEncryption.xml
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Entity\obj\Debug\ResolveAssemblyReference.cache
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Entity\obj\Debug\Entity.dll
+J:\Inetpub\wwwroot\NOCArchitecturecurrenttest\Entity\obj\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\Entity.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\NCCSEncryption.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\NCCSEncryption.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Debug\NCCSEncryption.xml
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\obj\Debug\Entity.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\EduDivArchi\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\EduDivArchi\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\EduDivArchi\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\EduDivArchi\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\EduDivArchi\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\EduDivArchi\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\EduDivArchi\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\EduDivArchi\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\EduDivArchi\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\EduDivArchi\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\EduDivArchi\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\HRArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\HRArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\HRArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\HRArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\HRArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\HRArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\HRArchitecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\HRArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\HRArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\HRArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\HRArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\IRDHRArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\HRIRDArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\GANGAHRArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\nicArchitecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\nicArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\MISArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\MISArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\MISArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\MISArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\MISArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\MISArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\MISArchitecture\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MISArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\MISArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\MISArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\MISArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\newprojArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\newprojArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\newprojArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\newprojArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\newprojArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\newprojArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\newprojArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\newprojArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\newprojArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\newprojArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\newprojArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\fawthang\fawthangArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\nishan\nishanArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\usgArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\usgArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\usgArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\usgArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\usgArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\usgArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\usgArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\usgArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\usgArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\usgArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\usgArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\clinicmanagementArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\labmanagementArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\justshareitArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\justshareArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\justshareArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\justshareArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\justshareArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\justshareArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\justshareArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\justshareArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\justshareArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\justshareArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\justshareArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\justshareArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\storeArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\storeArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\storeArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\storeArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\storeArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\storeArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\storeArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\storeArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\storeArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\storeArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\storeArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Entity\bin\Debug\Entity.dll
+C:\inetpub\wwwroot\transportationArchitecture\Entity\bin\Debug\Entity.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Entity\bin\Debug\NCCSEncryption.dll
+C:\inetpub\wwwroot\transportationArchitecture\Entity\bin\Debug\NCCSEncryption.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Entity\bin\Debug\NCCSEncryption.xml
+C:\inetpub\wwwroot\transportationArchitecture\Entity\bin\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\transportationArchitecture\Entity\obj\Debug\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\transportationArchitecture\Entity\obj\Debug\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\transportationArchitecture\Entity\obj\Debug\Entity.dll
+C:\inetpub\wwwroot\transportationArchitecture\Entity\obj\Debug\Entity.pdb
+C:\inetpub\wwwroot\transportationArchitecture\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache

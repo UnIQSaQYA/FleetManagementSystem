@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AE700AFE-758F-4BE1-A688-026A37BC0DB4}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Entity</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Entity</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NCCSEncryption, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Encryption\Encryption\bin\Debug\NCCSEncryption.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\ACCESSORIES.cs" />
+    <Compile Include="Components\ACCESSORIES_DAKHILA.cs" />
+    <Compile Include="Components\ACCESSORIES_DAKHILA_DETAIL.cs" />
+    <Compile Include="Components\ACCESSORIES_GROUP.cs" />
+    <Compile Include="Components\ACCIDENT_MASTER.cs" />
+    <Compile Include="Components\BASE_STATION.cs" />
+    <Compile Include="Components\CAR_RADIO_HARDWARE.cs" />
+    <Compile Include="Components\ESTIMATE_DETAIL.cs" />
+    <Compile Include="Components\ESTIMATE_MASTER.cs" />
+    <Compile Include="Components\EXTERNAL_WORKSHOP.cs" />
+    <Compile Include="Components\FIVE_DIMENSION.cs" />
+    <Compile Include="Components\DISPATCH_ACCESSORY_LIST.cs" />
+    <Compile Include="Components\DISPATCH_ISSUE_ACCESSORIES.cs" />
+    <Compile Include="Components\DISTRICT.cs" />
+    <Compile Include="Components\fiscalyear.cs" />
+    <Compile Include="Components\FIVE_DIMENSION_RETURN.cs" />
+    <Compile Include="Components\FIVE_DIMENSION_TEMP.cs" />
+    <Compile Include="Components\FUEL_ODOMETER.cs" />
+    <Compile Include="Components\FUEL_TYPE.cs" />
+    <Compile Include="Components\GOOD_TRANSPORTATION.cs" />
+    <Compile Include="Components\GOOD_TRANSPORTATION_DETAIL.cs" />
+    <Compile Include="Components\INSURANCE_CLAIM.cs" />
+    <Compile Include="Components\INSURANCE_MASTER.cs" />
+    <Compile Include="Components\login_fiscal_year.cs" />
+    <Compile Include="Components\MANUFACTURE.cs" />
+    <Compile Include="Components\MODEL_YEAR.cs" />
+    <Compile Include="Components\MOVEMENT_OF_VEHICLE.cs" />
+    <Compile Include="Components\M_COMPLITION.cs" />
+    <Compile Include="Components\M_COMPLITION_DETAIL.cs" />
+    <Compile Include="Components\M_EXPECTED_PARTS_LABOUR.cs" />
+    <Compile Include="Components\M_JOB_CARD.cs" />
+    <Compile Include="Components\M_LABOR_TYPE.cs" />
+    <Compile Include="Components\M_MAINTAINANCE_REQUEST.cs" />
+    <Compile Include="Components\M_MAINTAINANCE_SUGGESTION.cs" />
+    <Compile Include="Components\M_NEXT_SERVICE.cs" />
+    <Compile Include="Components\NAME_COMPANY.cs" />
+    <Compile Include="Components\NEXT_SERVICE_SUGGESTION.cs" />
+    <Compile Include="Components\OFFICE.cs" />
+    <Compile Include="Components\OPENING_CLOSING.cs" />
+    <Compile Include="Components\OTHER_TRAVELLER_DETAIL.cs" />
+    <Compile Include="Components\PasswordReset.cs" />
+    <Compile Include="Components\employees.cs" />
+    <Compile Include="Components\GetCalendar.cs" />
+    <Compile Include="Components\Groups.cs" />
+    <Compile Include="Components\Login.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\ModulePermissionEntity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\Modules.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\ModuleSubmoduleEntity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\PageLinkNodesEntity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\Pages.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\permission.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\PERSONDETAILS.cs" />
+    <Compile Include="Components\POST_OPERATION_LIST.cs" />
+    <Compile Include="Components\PRODUCT.cs" />
+    <Compile Include="Components\PRODUCT_CATEGORY.cs" />
+    <Compile Include="Components\PRODUCT_DEMAND.cs" />
+    <Compile Include="Components\PRODUCT_DEMAND_DETAIL.cs" />
+    <Compile Include="Components\PRODUCT_ISSUE.cs" />
+    <Compile Include="Components\PRODUCT_ISSUE_DETAIL.cs" />
+    <Compile Include="Components\PRODUCT_TYPE.cs" />
+    <Compile Include="Components\PURCHASE_ORDER.cs" />
+    <Compile Include="Components\PURCHASE_ORDER_DETAIL.cs" />
+    <Compile Include="Components\REPAIR_ORDER_DETAIL.cs" />
+    <Compile Include="Components\REPAIR_ORDER_MASTER.cs" />
+    <Compile Include="Components\SCRAP_RETURN_DETAIL.cs" />
+    <Compile Include="Components\SCRAP_RETURN_MASTER.cs" />
+    <Compile Include="Components\SubModules.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\SUPPLIER.cs" />
+    <Compile Include="Components\TRAVEL_DESCRIPTION.cs" />
+    <Compile Include="Components\UNIT.cs" />
+    <Compile Include="Components\USERGROUP.cs" />
+    <Compile Include="Components\UserPageAccess.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\UserProfileEntity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\VECHICLE_ACCIDENT.cs" />
+    <Compile Include="Components\VEHICHLE_TAX.cs" />
+    <Compile Include="Components\VEHICLE.cs" />
+    <Compile Include="Components\VEHICLE_ACCESSORIES.cs" />
+    <Compile Include="Components\VEHICLE_ACCESSORIES_RETURN.cs" />
+    <Compile Include="Components\VEHICLE_ACCESSORIES_TEMP.cs" />
+    <Compile Include="Components\VEHICLE_AT_OFFICE.cs" />
+    <Compile Include="Components\VEHICLE_CATEGORY.cs" />
+    <Compile Include="Components\VEHICLE_CATEGORY_TYPE.cs" />
+    <Compile Include="Components\VEHICLE_DAKHILA.cs" />
+    <Compile Include="Components\VEHICLE_DAKHILA_DETAIL.cs" />
+    <Compile Include="Components\VEHICLE_DISPATCH.cs" />
+    <Compile Include="Components\VEHICLE_INSURANCE.cs" />
+    <Compile Include="Components\VEHICLE_ISSUE.cs" />
+    <Compile Include="Components\VEHICLE_ISSUE_RETURN.cs" />
+    <Compile Include="Components\VEHICLE_LOG.cs" />
+    <Compile Include="Components\VEHICLE_MODEL.cs" />
+    <Compile Include="Components\VEHICLE_TYPE.cs" />
+    <Compile Include="Components\VEHICLE_TYPE_DESCRIPTION.cs" />
+    <Compile Include="Components\VEHICLE_TYPE_MANUFACTURE.cs" />
+    <Compile Include="Components\VEHICLE_USER.cs" />
+    <Compile Include="Components\VW_ORGH.cs" />
+    <Compile Include="Framework\EntityBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Framework\EntityList.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="HelperFunctionEntity.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainModule.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="NCCSNepaliDateLib">
+      <Guid>{8A03EE1D-0505-4547-841F-2682D85BA6EE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Entity.sln" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

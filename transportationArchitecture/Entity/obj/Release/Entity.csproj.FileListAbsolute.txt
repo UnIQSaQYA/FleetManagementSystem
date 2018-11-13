@@ -1,0 +1,16 @@
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Release\Entity.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Release\Interop.NCCSNepaliDateLib.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Release\NCCSEncryption.dll
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Release\NCCSEncryption.pdb
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\bin\Release\NCCSEncryption.xml
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\obj\Release\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\NOCArchitecturecurrent\Entity\obj\Release\Entity.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Release\Entity.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Release\NCCSEncryption.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Release\NCCSEncryption.pdb
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Release\NCCSEncryption.xml
+C:\inetpub\wwwroot\nicArchitecture\Entity\bin\Release\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\obj\Release\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\nicArchitecture\Entity\obj\Release\Interop.NCCSNepaliDateLib.dll
+C:\inetpub\wwwroot\nicArchitecture\Entity\obj\Release\Entity.csproj.ResolveComReference.cache
+C:\inetpub\wwwroot\nicArchitecture\Entity\obj\Release\Entity.dll

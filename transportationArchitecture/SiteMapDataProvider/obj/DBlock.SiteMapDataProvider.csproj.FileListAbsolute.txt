@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\Desktop\dynamicsitemap_src\dynamicsitemapdemo\DBlock.SiteMapDataProvider\bin\Debug\DBlock.SiteMapDataProvider.dll
+C:\Documents and Settings\Administrator\Desktop\dynamicsitemap_src\dynamicsitemapdemo\DBlock.SiteMapDataProvider\bin\Debug\DBlock.SiteMapDataProvider.pdb
+C:\Documents and Settings\Administrator\Desktop\dynamicsitemap_src\dynamicsitemapdemo\DBlock.SiteMapDataProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\dynamicsitemap_src\dynamicsitemapdemo\DBlock.SiteMapDataProvider\obj\Debug\DBlock.SiteMapDataProvider.dll
+C:\Documents and Settings\Administrator\Desktop\dynamicsitemap_src\dynamicsitemapdemo\DBlock.SiteMapDataProvider\obj\Debug\DBlock.SiteMapDataProvider.pdb

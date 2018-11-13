@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8E14E431-7901-4E88-A872-FEF8BD14B55B}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>DataAccess</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>DataAccess</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=10.2.0.100, Culture=neutral, PublicKeyToken=89b483f429c47342">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Windows\assembly\GAC\Oracle.DataAccess\10.2.0.100__89b483f429c47342\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\ACCESSORIESDAO.cs" />
+    <Compile Include="Components\ACCESSORIES_DAKHILADAO.cs" />
+    <Compile Include="Components\ACCESSORIES_DAKHILA_DETAILDAO.cs" />
+    <Compile Include="Components\ACCESSORIES_GROUPDAO.cs" />
+    <Compile Include="Components\ACCIDENT_MASTERDAO.cs" />
+    <Compile Include="Components\BASE_STATIONDAO.cs" />
+    <Compile Include="Components\CAR_RADIO_HARDWAREDAO.cs" />
+    <Compile Include="Components\ESTIMATE_DETAILDAO.cs" />
+    <Compile Include="Components\ESTIMATE_MASTERDAO.cs" />
+    <Compile Include="Components\EXTERNAL_WORKSHOPDAO.cs" />
+    <Compile Include="Components\FIVE_DIMENSION_RETURNDAO.cs" />
+    <Compile Include="Components\FIVE_DIMENSION_TEMPDAO.cs" />
+    <Compile Include="Components\DISPATCH_ACCESSORY_LISTDAO.cs" />
+    <Compile Include="Components\DISPATCH_ISSUE_ACCESSORIESDAO.cs" />
+    <Compile Include="Components\DISTRICTDAO.cs" />
+    <Compile Include="Components\fiscalyearDAO.cs" />
+    <Compile Include="Components\FIVE_DIMENSIONDAO.cs" />
+    <Compile Include="Components\FUEL_ODOMETERDAO.cs" />
+    <Compile Include="Components\FUEL_TYPEDAO.cs" />
+    <Compile Include="Components\GOOD_TRANSPORTATIONDAO.cs" />
+    <Compile Include="Components\GOOD_TRANSPORTATION_DETAILDAO.cs" />
+    <Compile Include="Components\INSURANCE_CLAIMDAO.cs" />
+    <Compile Include="Components\INSURANCE_MASTERDAO.cs" />
+    <Compile Include="Components\login_fiscal_yearDAO.cs" />
+    <Compile Include="Components\MANUFACTUREDAO.cs" />
+    <Compile Include="Components\MODEL_YEARDAO.cs" />
+    <Compile Include="Components\MOVEMENT_OF_VEHICLEDAO.cs" />
+    <Compile Include="Components\M_COMPLITIONDAO.cs" />
+    <Compile Include="Components\M_COMPLITION_DETAILDAO.cs" />
+    <Compile Include="Components\M_EXPECTED_PARTS_LABOURDAO.cs" />
+    <Compile Include="Components\M_JOB_CARDDAO.cs" />
+    <Compile Include="Components\M_LABOR_TYPEDAO.cs" />
+    <Compile Include="Components\M_MAINTAINANCE_REQUESTDAO.cs" />
+    <Compile Include="Components\M_MAINTAINANCE_SUGGESTIONDAO.cs" />
+    <Compile Include="Components\M_NEXT_SERVICEDAO.cs" />
+    <Compile Include="Components\NAME_COMPANYDAO.cs" />
+    <Compile Include="Components\NEXT_SERVICE_SUGGESTIONDAO.cs" />
+    <Compile Include="Components\OFFICEDAO.cs" />
+    <Compile Include="Components\OPENING_CLOSINGDAO.cs" />
+    <Compile Include="Components\OTHER_TRAVELLER_DETAILDAO.cs" />
+    <Compile Include="Components\PasswordResetDAO.cs" />
+    <Compile Include="Components\employeesDAO.cs" />
+    <Compile Include="Components\GetCalendarDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\GroupsDAO.cs" />
+    <Compile Include="Components\LogDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\LoginDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\ModulePermissionDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\ModulesDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\ModuleSubModulesDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\PageLinkNodeDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\PagesDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\permissionDAO.cs" />
+    <Compile Include="Components\PERSONDETAILSDAO.cs" />
+    <Compile Include="Components\POST_OPERATION_LISTDAO.cs" />
+    <Compile Include="Components\PRODUCTDAO.cs" />
+    <Compile Include="Components\PRODUCT_CATEGORYDAO.cs" />
+    <Compile Include="Components\PRODUCT_DEMANDDAO.cs" />
+    <Compile Include="Components\PRODUCT_DEMAND_DETAILDAO.cs" />
+    <Compile Include="Components\PRODUCT_ISSUEDAO.cs" />
+    <Compile Include="Components\PRODUCT_ISSUE_DETAILDAO.cs" />
+    <Compile Include="Components\PRODUCT_TYPEDAO.cs" />
+    <Compile Include="Components\PURCHASE_ORDERDAO.cs" />
+    <Compile Include="Components\PURCHASE_ORDER_DETAILDAO.cs" />
+    <Compile Include="Components\REPAIR_ORDER_DETAILDAO.cs" />
+    <Compile Include="Components\REPAIR_ORDER_MASTERDAO.cs" />
+    <Compile Include="Components\SCRAP_RETURN_DETAILDAO.cs" />
+    <Compile Include="Components\SCRAP_RETURN_MASTERDAO.cs" />
+    <Compile Include="Components\SubModulesDAO.cs" />
+    <Compile Include="Components\SUPPLIERDAO.cs" />
+    <Compile Include="Components\TRAVEL_DESCRIPTIONDAO.cs" />
+    <Compile Include="Components\UNITDAO.cs" />
+    <Compile Include="Components\USERGROUPDAO.cs" />
+    <Compile Include="Components\VECHICLE_ACCIDENTDAO.cs" />
+    <Compile Include="Components\VEHICHLE_TAXDAO.cs" />
+    <Compile Include="Components\VEHICLEDAO.cs" />
+    <Compile Include="Components\VEHICLE_ACCESSORIESDAO.cs" />
+    <Compile Include="Components\VEHICLE_ACCESSORIES_RETURNDAO.cs" />
+    <Compile Include="Components\VEHICLE_ACCESSORIES_TEMPDAO.cs" />
+    <Compile Include="Components\VEHICLE_AT_OFFICEDAO.cs" />
+    <Compile Include="Components\VEHICLE_CATEGORYDAO.cs" />
+    <Compile Include="Components\VEHICLE_CATEGORY_TYPEDAO.cs" />
+    <Compile Include="Components\VEHICLE_DAKHILADAO.cs" />
+    <Compile Include="Components\VEHICLE_DAKHILA_DETAILDAO.cs" />
+    <Compile Include="Components\VEHICLE_DISPATCHDAO.cs" />
+    <Compile Include="Components\VEHICLE_INSURANCEDAO.cs" />
+    <Compile Include="Components\VEHICLE_ISSUEDAO.cs" />
+    <Compile Include="Components\VEHICLE_ISSUE_RETURNDAO.cs" />
+    <Compile Include="Components\VEHICLE_LOGDAO.cs" />
+    <Compile Include="Components\VEHICLE_MODELDAO.cs" />
+    <Compile Include="Components\VEHICLE_TYPEDAO.cs" />
+    <Compile Include="Components\VEHICLE_TYPE_DESCRIPTIONDAO.cs" />
+    <Compile Include="Components\VEHICLE_TYPE_MANUFACTUREDAO.cs" />
+    <Compile Include="Components\VEHICLE_USERDAO.cs" />
+    <Compile Include="Components\VW_ORGHDAO.cs" />
+    <Compile Include="Framework\AbstractDAO.cs" />
+    <Compile Include="Framework\DataSourceException.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="obj\Debug\DataAccess.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Release\ResolveAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Release\DataHelper.dll" />
+    <Content Include="bin\Release\Interop.NCCSNepaliDateLib.dll" />
+    <Content Include="bin\Release\NCCSEncryption.dll" />
+    <Content Include="bin\Release\NCCSEncryption.pdb" />
+    <Content Include="bin\Release\NCCSEncryption.xml" />
+    <Content Include="obj\DataAccess.csproj.FileList.txt" />
+    <Content Include="obj\DataAccess.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\DataAccess.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\DataAccess.dll" />
+    <Content Include="obj\Debug\DataAccess.pdb" />
+    <Content Include="obj\Debug\Refactor\DataAccess.dll" />
+    <Content Include="obj\Release\DataAccess.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Release\DataAccess.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataHelper\DataHelper.csproj">
+      <Project>{ca3a71b4-d177-4383-9500-259a2ba3f22b}</Project>
+      <Name>DataHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{ae700afe-758f-4be1-a688-026a37bc0db4}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+    <Folder Include="obj\Debug\temp\" />
+    <Folder Include="obj\Release\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

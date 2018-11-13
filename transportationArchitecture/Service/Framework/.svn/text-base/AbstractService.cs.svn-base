@@ -1,0 +1,98 @@
+using System;
+using Entity.Framework;
+using DataAccess.Framework;
+
+namespace Service.Framework
+{
+    /// <summary>
+    /// All service objects based on this AbstractService class. 
+    /// 
+    /// A service layer defines an application's boundary with a layer of services that
+    /// establishes a set of available operations and coordinates the application's
+    /// response in each operation.
+    /// 
+    /// The service layer thus encapsulates the application's business logic, controls
+    /// any database transactions, and coordinates any responses needed in the implementation 
+    /// of the operations. Each service object is thus a facade of sorts for each of the
+    /// major domain objects
+    /// </summary>
+    public abstract class AbstractService
+    {
+        public enum SortDirection
+        {
+            Ascending,
+            Descending
+        }
+
+        #region Constructor
+        public AbstractService()
+        {
+        }
+        #endregion
+
+        #region Properties
+        public abstract AbstractDAO dao
+        {
+            get;
+        }
+        #endregion
+
+        #region Public Methods
+
+        /// <summary>
+        /// Inserts a entity into a table. The DAO object knows which table and field the
+        /// entity is for. The DAO Object is initialized in the subclass
+        /// </summary>
+        /// <param name="anEntity"></param>
+        /// <returns></returns>
+        public virtual int Insert(EntityBase anEntity)
+        {
+            return dao.Insert(anEntity);
+        }
+
+        /// <summary>
+        /// Updates a entity in a table. The DAO object knows which table and field the
+        /// entity is for. The DAO Object is initialized in the subclass
+        /// </summary>
+        /// <param name="anEntity"></param>
+        public virtual void Update(EntityBase anEntity)
+        {
+            dao.Update(anEntity);
+        }
+
+        /// <summary>
+        /// Deletes the spefied ID from a table in the database. The DAO object knows which table and field the
+        /// ID is for. The DAO Object is initialized in the subclass. The ID field must be valid
+        /// </summary>
+        /// <param name="anEntity"></param>
+        public virtual void Delete(EntityBase anEntity)
+        {
+            dao.Delete(anEntity);
+        }
+
+        public virtual EntityList GetAll()
+        {
+            return dao.GetAll();
+        }
+
+        public virtual EntityList GetAll(EntityBase anEntity)
+        {
+            return dao.GetAll(anEntity);
+        }
+
+        public virtual EntityBase GetSingle(EntityBase anEntity)
+        {
+            return dao.GetSingle(anEntity);
+        }
+
+        #endregion
+
+        #region	Protected Methods
+        protected virtual EntityList GetAllFromDAO()
+        {
+            return dao.GetAll();
+        }
+
+        #endregion
+    }
+}
